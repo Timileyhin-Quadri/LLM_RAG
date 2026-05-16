@@ -6,3 +6,4 @@ pandas
 scikit-learn 
 ipywidgets
 qdrant-client[fastembed]>=1.14.2
+sentence-transformers
